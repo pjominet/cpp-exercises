@@ -1,0 +1,34 @@
+Antonii/17.1
+Bartholomei/24.8
+Bernhardi/23.8
+Bernhardini/20.5
+Catharine v.m./25.11
+Circumcisio Domini/1.1
+Conversio Pauli/25.1
+Cyriaci et Soc./8.8
+Dionysii/9.10
+Divisio Apostolorum/15.7
+Egidii/1.9
+Elisabeth/19.11
+Exaltatio Crucis/14.9
+Jacobi/25.7
+Johannes Baptista/24.6
+Kiliani/8.7
+Laurentii/10.8
+Luce/18.10
+Lucie/13.12
+Martini/11.11
+Matthei/21.9
+Michaelis/29.9
+Nativitas Christi/25.12
+Nativitas Marie/8.9
+Nicolai/6.12
+Omnium Sanctorum/1.11
+Purificatio Marie/2.2
+Sebastiani/20.1
+Simonis et Jude/28.10
+Trium Regum/6.1
+Udalrici/4.7
+Vincula Petri/1.8
+Viti/15.6
+Walpurgis/1.5

@@ -1,0 +1,7 @@
+Zeile 1=6
+Zeile 2=4
+Zeile 3=2
+Zeile 4=4
+Zeile 5=6
+Zeile 6=1
+Zeile 7=2

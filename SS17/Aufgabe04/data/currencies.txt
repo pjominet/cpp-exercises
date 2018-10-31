@@ -1,0 +1,2 @@
+gulden:fl=240,x=4,d=1
+taler:t=240,sgr=12,pf=1

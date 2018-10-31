@@ -1,0 +1,10 @@
+<kurs>
+  <person>
+    <vorname attr1="value1">Margarita</vorname>
+    <famname attr1="value1" attr2="value2">Weber</famname>
+  </person>
+  <person>
+    <vorname attr1="value1">Heike</vorname>
+    <famname attr1="value1" attr2="value2">Jurzik</famname>
+  </person>
+</kurs>
